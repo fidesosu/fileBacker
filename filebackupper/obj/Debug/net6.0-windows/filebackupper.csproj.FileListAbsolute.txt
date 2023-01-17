@@ -1,0 +1,17 @@
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\bin\Debug\net6.0-windows\filebackupper.exe
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\bin\Debug\net6.0-windows\filebackupper.deps.json
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\bin\Debug\net6.0-windows\filebackupper.runtimeconfig.json
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\bin\Debug\net6.0-windows\filebackupper.dll
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\bin\Debug\net6.0-windows\filebackupper.pdb
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.csproj.AssemblyReference.cache
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.csproj.GenerateResource.cache
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.AssemblyInfoInputs.cache
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.AssemblyInfo.cs
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.csproj.CoreCompileInputs.cache
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.dll
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\refint\filebackupper.dll
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.pdb
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.genruntimeconfig.cache
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\ref\filebackupper.dll
+C:\Users\jorii\Documents\GitHub\filebackupper\filebackupper\obj\Debug\net6.0-windows\filebackupper.Backup.resources
